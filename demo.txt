@@ -1,1 +1,2 @@
-Testing the git fetch in the local repo day1
+Testing the git pull in the local repo day1
+
