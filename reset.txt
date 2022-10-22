@@ -1,1 +1,3 @@
 welcome to Git and Github
+Instructed learning 
+by Kottes
